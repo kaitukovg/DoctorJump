@@ -27,9 +27,6 @@
 
 1. **Клонируйте репозиторий**  
    ```bash
-   git clone https://github.com/ваш-username/doctor-prygun.git
-   cd doctor-prygun
+   git clone https://github.com/kaitukovg/DoctorJump && cd DoctorJump && python game.py
 
-bash
-python game.py
 
